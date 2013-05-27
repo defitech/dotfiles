@@ -1,4 +1,4 @@
-# Simon’s dotfiles
+# Defitech default dotfiles
 
 OSX, fish, git, Homebrew.
 

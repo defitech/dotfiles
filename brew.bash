@@ -20,8 +20,6 @@ brew install ruby
 # Install everything else
 brew install ack
 brew install git
-brew install ffmpeg
-brew install graphicsmagick
 brew install mobile-shell
 brew install mysql
 
