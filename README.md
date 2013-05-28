@@ -28,8 +28,9 @@ Prerequisite: Homebrew.
 3. Apply OSX settings if desired: `./osx.bash`
 4. Install Homebrew packages if desired: `./brew.bash`
 5. Install TextWrangler color scheme if desired: `cp init/Twilight.bbcolors ~/Library/Application\ Support/TextWrangler/Color\ Schemes/.`
+6. Install Xcode color scheme if desired: `cp init/Twilight.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/.`
 
 
 ## Original source
 
-https://github.com/sgoumaz/dotfiles.
+https://github.com/sgoumaz/dotfiles
